@@ -1,6 +1,6 @@
 # Hi, I'm Saddam Hossen 👋
 
-#### 👑 I am Web Developer
+#### 👑 I am Web Designer-Developer & Marketer
 #### 🖊️ Love to write code
 #### 🎤 Like to share my knowledge
 
@@ -28,6 +28,19 @@ I am looking forward to working with you!
 ✅ HTML5 / CSS3 / SASS / Bootstrap-3,4,5 / UIkit
 
 ✅ Photoshop / Illustrator
+
+# 🔭 I’m currently working on 
+
+✅ WordPress
+
+✅ Shopify
+
+✅ Wix
+
+✅ Weebly
+
+✅ Digital Marketing
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamwiki)
 
